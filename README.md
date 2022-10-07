@@ -49,7 +49,7 @@ wget https://raw.githubusercontent.com/mrmissx/userbutt/sql-extended/terminal_ge
 
 Deploy to Heroku with button
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/mrmissx/UserButt/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/skezqa/UserButt"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
 
 [Deploy to heroku with github actions](https://github.com/mrmissx/UserButt/blob/sql-extended/helper.md)
 
